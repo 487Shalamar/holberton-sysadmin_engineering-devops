@@ -1,2 +1,2 @@
-0	string	HOLBERTON
-!:mime DATA
+#!/bin/bash
+file -C -0 holberton.mgc
